@@ -1,0 +1,33 @@
+# ---- Secrets: never commit these ----
+gateway/access.txt
+gateway/state.json
+gateway/login-qr.png
+
+# ---- Signing keys ----
+*.keystore
+*.jks
+*.p12
+
+# ---- Build output ----
+android/build/
+*.apk
+*.apks
+
+# ---- Runtime ----
+logs/
+node_modules/
+
+# ---- Large binary, download it yourself ----
+bin/cloudflared.exe
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# ---- Local backups ----
+*.bak
+*.bak-*
+*_backup*/
