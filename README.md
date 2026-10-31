@@ -1,5 +1,7 @@
 # DSH Mobile Gateway
 
+**English** | [简体中文](README.zh-CN.md)
+
 > Access the **DeepSeek Harness desktop app** from your Android phone — same instance, same sessions, same running tasks.
 
 DSH is an Electron desktop application with no official mobile client. This project bridges that gap:
